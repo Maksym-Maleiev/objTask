@@ -11,3 +11,5 @@ scores;
 scores["Olexander Chertkov"] += 3;
 scores["Anastasia Daineko"] += 4;
 scores;
+
+// #2: we find out the essence of objects and arrays
