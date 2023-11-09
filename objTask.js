@@ -19,3 +19,5 @@ var myCrazyObject = {
   "random animal": "Banana Shark"
 };
 myCrazyObject;
+
+Object.keys(myCrazyObject);
