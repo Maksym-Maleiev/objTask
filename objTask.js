@@ -13,3 +13,8 @@ scores["Anastasia Daineko"] += 4;
 scores;
 
 // #2: we find out the essence of objects and arrays
+var myCrazyObject = {
+  "name": "A radiculous object",
+  "some array": [7, 9, { purpose: "confusion", number: 123 }, 3.3],
+  "random animal": "Banana Shark"
+};
